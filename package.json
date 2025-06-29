@@ -2,7 +2,6 @@
   "name": "smoobu-cleaning-app",
   "version": "1.0.0",
   "description": "App per operatori pulizie Smoobu",
-  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
